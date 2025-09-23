@@ -1,5 +1,5 @@
 # THIS IS REACT BASED PROJECT CALLED SNAPNSOLVE
-the outcome of this project is to build a simple application where citizens can easily  share their greivances/isuues to the municipal corporation administration (or operations management)
+the outcome of this project is to build a simple application where citizens can easily  share their greivances/isuues to the municipal corporation administration (or operations management).
 
 
 
