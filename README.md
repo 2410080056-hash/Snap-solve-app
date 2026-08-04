@@ -2,6 +2,12 @@
 the outcome of this project is to build a simple application where citizens can easily  share their greivances/isuues to the municipal corporation administration (or operations management).
 
 
+#USECASES EXAMPLES
+-there is a water loging in an area, you can take a snap pic and send it
+-there is a garbage issue in ur locality, snap and send
+-there is street lights not working etc, click a snap and send
+-there are dangerously many dogs,may need vaccination for rabies protection, take a pic and send
+-any suggestions like this park is left unused, plant more trees, etc.
 
 
 
